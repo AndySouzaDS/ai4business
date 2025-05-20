@@ -1,2 +1,2 @@
-# ai4business
-aplicação web de resumos de pdf com uso de ia
+# langchain-app
+Perguntas e Respostas a um PDF com Langchain
